@@ -1,5 +1,5 @@
 # Classwork on using the Django ORM capability from the console
-
+#### You made both models but did not link them with a foreign key 3/5 Score: 2/2
 ## Exercise 1:
 * Create new model for ```Author```
 - Author should have properties for ```first_name``` and ```last_name```
